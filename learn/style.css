@@ -1,0 +1,19 @@
+hr.red {
+    border: 20px solid red;
+    text-align: left;
+    width: 33%;
+    margin-left: 0;
+} 
+
+hr.blue{
+    border: 20px solid blue;
+    text-align: center;
+    width: 33%;
+}
+
+hr.green {
+    border: 20px solid green;
+    text-align: right;
+    width: 33%;
+    margin-right: 0;
+}
