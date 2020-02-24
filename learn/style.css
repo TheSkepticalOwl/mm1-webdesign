@@ -1,3 +1,7 @@
+body.page2 {
+    background-color: lightgreen;
+}
+
 hr.red {
     border: 20px solid red;
     text-align: left;
@@ -16,4 +20,17 @@ hr.green {
     text-align: right;
     width: 33%;
     margin-right: 0;
+}
+
+img.full {
+    width: 100%;
+}
+
+nav hr.nav-page2 {
+    border: 2px solid black;
+}
+
+body.page2 h1 {
+    color: green;
+    text-align: center;
 }
